@@ -8,10 +8,11 @@ html{
 
 .masthead{
   padding-top:6em;
-  background-image:url("../images/beetle.svg"), url("../images/masthead-bg.png");
-  background-size: 395px auto,200px auto;
-  background-repeat: no-repeat,repeat;
-  background-position: right 10px,left top;
+  background-image:url("../images/beetle.svg"), url("../images/beetle-left.svg")
+  ;
+  background-size: 900px auto,900px auto;
+  background-repeat: no-repeat,no-repeat;
+  background-position:left , right;
   text-align:center;
 
 }
