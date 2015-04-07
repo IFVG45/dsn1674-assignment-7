@@ -10,10 +10,11 @@ html{
   padding-top:6em;
   background-image:url("../images/beetle.svg"), url("../images/beetle-left.svg")
   ;
-  background-size: 900px auto,900px auto;
+  background-size: 345px auto,345px auto;
   background-repeat: no-repeat,no-repeat;
   background-position:left , right;
   text-align:center;
+  border: #
 
 }
 
