@@ -7,12 +7,12 @@ html{
 }
 
 .masthead{
-  padding-top:6em;
+  padding-top:0.5em;
   background-image:url("../images/beetle.svg"), url("../images/beetle-left.svg")
   ;
-  background-size: 345px auto,345px auto;
+  background-size: 865px auto,865px auto;
   background-repeat: no-repeat,no-repeat;
-  background-position:left , right;
+  background-position:left, right;
   text-align:center;
   border: #
 
@@ -24,17 +24,33 @@ html{
 }
 
 .box{
-  background-color: #3B3A33;
-  padding: 1em;
-  text-align:center;
+  background-color: #FFDEEF;
+  padding: 0.5em;
+  text-align:right;
+}
+
+.box2{
+  background-color: #FFDEEF;
+  padding: 0.5em;
+  text-align:right;
+}
+.box3{
+  background-color: #FFDEEF;
+  padding: 0.5em;
+  text-align:right;
+}
+.box4{
+  background-color: #FFDEEF;
+  padding: 0.5em;
+  text-align:right;
 }
 
 .btn{
   display:inline-block;
-  padding: 0.5em 0.75em;
+  padding:1.2em 2.0em;
   text-decoration:none;
   color:#fff;
-  background-color:#a8ae98;
+  background-color:#4f9c00;
   border-radius: 10px;
-  background-image:linear-gradient(to bottom, #a8ae98, #5b5e52);
+  background-image:linear-gradient(to bottom, #4f9c00, #2e6a00);
 }
