@@ -98,7 +98,6 @@ figure img {
 
 figure {
   position: relative;
-  bottom: 1em;
   box-sizing: border-box;
   margin: 0;
   width: 50%;
@@ -132,7 +131,7 @@ figcaption:hover {
 /*footer*/
 
 footer {
-  margin: 0
+  margin: 0;
   overflow: hidden;
   width: 100%;
   background-color: rgba(81,34,0,.5);
@@ -140,7 +139,7 @@ footer {
 
 footer img {
   margin: 0 auto;
-  width: 2.5em;
+  width: 5%;
   display: block;
 
 }
